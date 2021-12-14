@@ -1,1 +1,1 @@
-# Prediction-using-supervised-machine-learining
+#Prediction of percentage of an student based on no.of study hours
